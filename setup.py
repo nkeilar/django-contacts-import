@@ -10,11 +10,11 @@ setup(
     long_description = open("README.rst").read(),
     license = "BSD",
     url = "http://github.com/eldarion/django-contacts-import",
-    packages = [
-        "contacts_import",
-        "contacts_import.backends",
-        "contacts_import.templatetags",
-    ],
+#    packages = [
+#        "contacts_import",
+#        "contacts_import.backends",
+#        "contacts_import.templatetags",
+#    ],
     classifiers = [
         "Development Status :: 3 - Alpha",
         "Environment :: Web Environment",
